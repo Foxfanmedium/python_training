@@ -1,5 +1,6 @@
 from selenium.webdriver.firefox.webdriver import WebDriver
 
+
 class Application:
     def __init__(self):
         self.wd = WebDriver()
@@ -27,7 +28,7 @@ class Application:
     def create_group(self,group):
         wd = self.wd
         self.open_groups_page()
-        # initgroup creation
+        # init group creation
         wd.find_element_by_name("new").click()
         wd.find_element_by_name("group_name").click()
         wd.find_element_by_name("group_name").clear()
