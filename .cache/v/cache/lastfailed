@@ -1,0 +1,5 @@
+{
+  "test_add_group.py::Test_add_group::test_Test_add_group": true,
+  "test_add_group.py::test_add_empty_group": true,
+  "test_add_group.py::test_add_group": true
+}

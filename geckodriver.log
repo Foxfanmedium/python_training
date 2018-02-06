@@ -1,0 +1,80 @@
+1509861945787	geckodriver	INFO	geckodriver 0.19.1
+1509861945837	geckodriver	INFO	Listening on 127.0.0.1:49262
+1509861948181	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.lzE2nWkxHik0"
+1509861954331	Marionette	INFO	Listening on port 2828
+1509862110661	geckodriver	INFO	geckodriver 0.19.1
+1509862110671	geckodriver	INFO	Listening on 127.0.0.1:49444
+1509862112742	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.qYJyWetOdgNI"
+1509862115893	Marionette	INFO	Listening on port 2828
+1509862296397	geckodriver	INFO	geckodriver 0.19.1
+1509862296417	geckodriver	INFO	Listening on 127.0.0.1:49575
+1509862298524	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.xzkLLdga0XrB"
+1509862301637	Marionette	INFO	Listening on port 2828
+1509863029712	geckodriver	INFO	geckodriver 0.19.1
+1509863029742	geckodriver	INFO	Listening on 127.0.0.1:50181
+1509863031855	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.lurHG4gHomUc"
+1509863035257	Marionette	INFO	Listening on port 2828
+[Child 6964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1509863374579	geckodriver	INFO	geckodriver 0.19.1
+1509863374589	geckodriver	INFO	Listening on 127.0.0.1:50483
+1509863376619	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.zACQygH2FsJE"
+1509863379469	Marionette	INFO	Listening on port 2828
+1509863561223	geckodriver	INFO	geckodriver 0.19.1
+1509863561251	geckodriver	INFO	Listening on 127.0.0.1:50584
+1509863563371	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.bWpgpeJ12Fkw"
+1509863566769	Marionette	INFO	Listening on port 2828
+1509863640000	geckodriver	INFO	geckodriver 0.19.1
+1509863640010	geckodriver	INFO	Listening on 127.0.0.1:50673
+1509863642138	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.FtrzDQqsFX1q"
+1509863645767	Marionette	INFO	Listening on port 2828
+1509863994167	geckodriver	INFO	geckodriver 0.19.1
+1509863994187	geckodriver	INFO	Listening on 127.0.0.1:50751
+1509863996255	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.hv6lrSeL33RK"
+1509863999616	Marionette	INFO	Listening on port 2828
+1509864080494	geckodriver	INFO	geckodriver 0.19.1
+1509864080524	geckodriver	INFO	Listening on 127.0.0.1:50855
+1509864082614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.2l1c7jaEITP1"
+1509864086148	Marionette	INFO	Listening on port 2828
+1509864289629	geckodriver	INFO	geckodriver 0.19.1
+1509864289649	geckodriver	INFO	Listening on 127.0.0.1:50906
+1509864291680	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.hgD6fAFbog9w"
+1509864295314	Marionette	INFO	Listening on port 2828
+[1612] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[1612] WARNING: Unable to create pipe named "5612.0.1478848412\624776134" in client mode.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+1509864300677	geckodriver	INFO	geckodriver 0.19.1
+1509864300707	geckodriver	INFO	Listening on 127.0.0.1:50920
+1509864302814	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.Da6YW9DLZWG1"
+1509864306045	Marionette	INFO	Listening on port 2828
+1509875976535	geckodriver	INFO	geckodriver 0.19.1
+1509875976535	geckodriver	INFO	Listening on 127.0.0.1:51364
+1509875978597	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.RanMYsb7hkqr"
+1509875981933	Marionette	INFO	Listening on port 2828
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1509894771022	geckodriver	INFO	geckodriver 0.19.1
+1509894771046	geckodriver	INFO	Listening on 127.0.0.1:53040
+1509894773102	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.1FYXob8Af7lL"
+1509894777674	Marionette	INFO	Listening on port 2828
+1509909264860	geckodriver	INFO	geckodriver 0.19.1
+1509909264880	geckodriver	INFO	Listening on 127.0.0.1:53674
+1509909266960	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.RuyuBLfLzHnG"
+1509909271139	Marionette	INFO	Listening on port 2828
+1509961797051	geckodriver	INFO	geckodriver 0.19.1
+1509961797061	geckodriver	INFO	Listening on 127.0.0.1:55192
+1509961799165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.K4gRIRvbBS2L"
+1509961802161	Marionette	INFO	Listening on port 2828
+1509961871257	geckodriver	INFO	geckodriver 0.19.1
+1509961871277	geckodriver	INFO	Listening on 127.0.0.1:55285
+1509961873308	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\RJZAK_~1\\AppData\\Local\\Temp\\rust_mozprofile.BZBTOX2aeDZM"
+1509961875888	Marionette	INFO	Listening on port 2828
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
