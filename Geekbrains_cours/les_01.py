@@ -24,8 +24,17 @@ if answer == 'Y':
     else:
         pass
 
-
-
+# type(do) - display information about object
+# type("") or type('') - name of object like a string type
+# import os - import module 'os'
+# os.listdir() - show all files in current directory
+# import psutil - import module psutil, pay attention this module is third-party application
+# pip - manager for instalation packages
+# pip install psutil - install module psutil
+# dir(psutil) - show module content
+# help(psutil) - display all information about module
+#
+#
 
 
 
