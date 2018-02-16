@@ -4,7 +4,8 @@
 #=======================================================================================================================
  #coding: utf-8
 import os
-import psutil #pip install psutil
+import sys
+#import psutil
 
 answer = input("Давайте поработаем? (Y/N)")
 if answer == 'Y':
@@ -16,11 +17,16 @@ if answer == 'Y':
     do = int(input("Укажите номер действия:"))
 
     if do == 1:
-         print(os.listdir())
+        print(os.listdir())
     elif do == 2:
-        pass
+        print('Ваша ОС: ' + sys.platform + os.name)
+        print('Кодировка вашей ОС: ' + sys.getfilesystemencoding())
+        print('Вы авторизованы в системе как : ' + os.getlogin())
+        print('Версия установленого Python : ' + sys.version)
+        #print('Количество поцессоров на вашей машине : ' + psutil.cpu_count())
     elif do == 3:
-        print(psutil.pids())
+        pass
+        #print(psutil.pids())
     else:
         pass
 
@@ -33,7 +39,7 @@ if answer == 'Y':
 # pip install psutil - install module psutil
 # dir(psutil) - show module content
 # help(psutil) - display all information about module
-#
+# pip install psutil
 #
 
 
