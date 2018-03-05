@@ -136,79 +136,17 @@
 #     ouf.write(str(25))
 
 
+import re
 
+# with open('dataset_3363_2.txt', 'r') as string:
+#     s1 = re.split("(\d*)", string.readline())[:-1]
+#     print(''.join([i[1] * int(i[0]) for i in zip(s1[1::2], s1[::2])])
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+s1 = 'a3b4c2e10b1'
+s1 = re.split("(\d*)", s1())[:-1]
+print(s1)
+# print(''.join([i[1] * int(i[0]) for i in zip(s1[1::2], s1[::2])])
 
 
 
