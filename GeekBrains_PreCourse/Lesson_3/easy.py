@@ -2,11 +2,11 @@
 # Создайте функцию, принимающую на вход Имя, возраст и город проживания человека
 # Функция должна возвращать строку вида "Василий, 21 год(а), проживает в городе Москва"
 
-# def inf_people(name, age, city, *args):
-#     name = input('Input your name: ').title()
-#     age = int(input('Input your age: '))
-#     city = input('Input your city: ').title()
-#     print(name, age, 'год(а)', 'проживает в городе', city)
+def inf_people(name, age, city, *args):
+    name = input('Input your name: ').title()
+    age = int(input('Input your age: '))
+    city = input('Input your city: ').title()
+    print(name, age, 'год(а)', 'проживает в городе', city)
 #
 # inf_people(1, 2, 3)
 #=======================================================================================================================
@@ -32,9 +32,9 @@
 # Задание - 3
 # Создайте функцию, принимающую неограниченное количество строковых аргументов,
 # верните самую длинную строку из полученных аргументов
-
-inp = input('Enter several arguments:')
-split_inp = max(inp.split(), key=len)
-print(split_inp)
+#
+# inp = input('Enter several arguments:')
+# split_inp = max(inp.split(), key=len)
+# print(split_inp)
 
 # Как сделать тоже самое с циклом for?
