@@ -3,14 +3,14 @@
 # Функция должна возвращать строку вида "Василий, 21 год(а), проживает в городе Москва"
 
 #
-# def inf_people(name, age, city, *args):
-#     name = input('Input your name: ').title()
-#     age = int(input('Input your age: '))
-#     city = input('Input your city: ').title()
-#     print(name, age, 'год(а)', 'проживает в городе', city)
-#
-#
-# inf_people(1, 2, 3)
+def inf_people(name, age, city, *args):
+    name = input('Input your name: ').title()
+    age = int(input('Input your age: '))
+    city = input('Input your city: ').title()
+    print(name, age, 'год(а)', 'проживает в городе', city)
+
+
+inf_people(1, 2, 3)
 
 #Ответ от преподавателя
 
@@ -58,12 +58,12 @@
 
 
 #Ответ от преподавателя
-
-
-def max_string(*args):
-    return max(args, key=len)
-
-print(max_string('jhsavsdhvljkasdv', 'qwerty', 'hsjknfdskj'))
+#
+#
+# def max_string(*args):
+#     return max(args, key=len)
+#
+# print(max_string('jhsavsdhvljkasdv', 'qwerty', 'hsjknfdskj'))
 
 
 

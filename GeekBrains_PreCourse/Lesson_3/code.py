@@ -119,7 +119,7 @@
 
 # with open('100.txt') as file:
 #     print(file.readlines())
-
-import os
-
-print(os.path.join('home', 'sizov', '100.txt'))
+#
+# import os
+#
+# print(os.path.join('home', 'sizov', '100.txt'))
