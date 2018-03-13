@@ -1,0 +1,3 @@
+Ivan - 200
+Pavel - 300
+Olga - 250

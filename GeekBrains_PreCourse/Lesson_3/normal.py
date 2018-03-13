@@ -11,4 +11,40 @@
 Так же при выводе имя должно быть полностью в верхнем регистре!
 Подумайте вспоминая урок, как это можно сделать максимально кратко, используя возможности языка Python'''
 
+names = ['Ivan', 'Pavel', 'Olga']
+salary = [200, 300, 250]
+MAX_SALARY = 500000
+TAX_PERCENT = 13
+ONE_HUNDRED_PERCENT = 100
+dict_salary = dict(zip(names, salary))
+# print(dict_salary)
+
+f = open('salary.txt', 'w+', encoding = 'UTF-8')
+
+for key, value in dict_salary.items():
+    if value <= MAX_SALARY:
+        f.write('{} - {}\n'.format(key, value))
+f.seek(0)
+
+for line in f:
+    name, salary = line.split('-')
+    tax = int(salary) / ONE_HUNDRED_PERCENT * TAX_PERCENT
+    after_tax = int(salary) - int(tax)
+    print('{} получил зарплату в размере: {}, налог составил:{},'.format(name.upper(), after_tax, int(tax)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
