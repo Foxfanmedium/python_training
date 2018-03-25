@@ -64,7 +64,7 @@ while answer != "N":
         start = 0
         if start == 0:
             gotoxy(-150, 250)
-            turtle.write("You are failed!", font=("Arial", 18, "normal"))
+            turtle.write("You are failed!", font=("Arial", 18, "normal.py"))
 
             z = random.randrange(0, 3)
             if z == 0:
@@ -73,7 +73,7 @@ while answer != "N":
                 mrrobot.random_delete('test')
             else:
                 gotoxy(-100,-50)
-                turtle.write("You are lucky!!!", font=("Arial", 18, "normal"))
+                turtle.write("You are lucky!!!", font=("Arial", 18, "normal.py"))
 
     else:
         pass

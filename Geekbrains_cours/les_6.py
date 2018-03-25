@@ -133,7 +133,7 @@ while answer != "N":
         start = i % 7
         if start == 0:
             gotoxy(-150, 250)
-            turtle.write("You are failed!", font=("Arial", 18, "normal"))
+            turtle.write("You are failed!", font=("Arial", 18, "normal.py"))
 #        turtle.penup()  # make an transparent cursor
 #        turtle.goto(random.randrange(-300, 300), random.randrange(-200, 200)) # move the corsor to another place on display
  #       turtle.pendown()   # make an transparent cursor
