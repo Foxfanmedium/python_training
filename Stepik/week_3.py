@@ -237,9 +237,25 @@
 #     print(lines)
 #-----------------------------------------------------------------------------------------------------------------------
 
-
-
-
+dict = {}
+dict[1] = 'picture_1'
+dict[2] = 'picture_2'
+dict[3] = 'picture_3'
+dict[4] = 'picture_4'
+# print(dict.get(3))
+def get_picture_number():
+    # print(len(dict))
+    # for i in range(len(dict)+1):
+    #     print(dict.get(i))
+    # for key in dict:
+    #     print(key, end=' ')
+    # for key in dict.keys():
+    #     print(key, end=" ")
+    # for value in dict.values():
+    #     print(value, end=' ')
+    for key, value in dict.items():
+        print(key, value, end = '; ')
+print(get_picture_number())
 
 
 
