@@ -1,3 +1,3 @@
-phrase = 'Hello World!'
-splitphrase = phrase.split(" ")
-print(splitphrase)
+string = 'Master'
+magik = 'Fire'
+print('He is a %s of %s' % (string, magik))
