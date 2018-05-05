@@ -38,9 +38,19 @@
 # phonebook.pop("Mike")
 # print(phonebook)
 
+# import urllib
+#
+# # print(dir(urllib))
+# help(urllib.error)
+#=======================================================================================================================
+import re
+list_of_re = dir(re).split('')
+pattern = r'\B[find]'
 
+# result = re.split(pattern, list_of_re)
 
-
+# print(result)
+print(list_of_re)
 
 
 
