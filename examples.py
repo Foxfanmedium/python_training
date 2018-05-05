@@ -44,13 +44,14 @@
 # help(urllib.error)
 #=======================================================================================================================
 import re
-list_of_re = dir(re).split('')
-pattern = r'\B[find]'
+# list_of_re = dir(re)
+# pattern = '
 
-# result = re.split(pattern, list_of_re)
+result = re.search(r'\B[find]', dir(re))
 
-# print(result)
 print(list_of_re)
+print(result)
+
 
 
 
