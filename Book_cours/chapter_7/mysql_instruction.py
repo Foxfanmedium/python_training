@@ -13,8 +13,4 @@
     -> results varchar(64) not null);
 Query OK, 0 rows affected (0.35 sec)
 6. $ describe log;
-
-
-
-
 """
