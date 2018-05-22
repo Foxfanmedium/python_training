@@ -46,13 +46,15 @@
 import re
 # list_of_re = dir(re)
 # pattern = '
+#
+# result = re.search(r'\B[find]', dir(re))
+#
+# print(list_of_re)
+# print(result)
 
-result = re.search(r'\B[find]', dir(re))
-
-print(list_of_re)
-print(result)
-
-
+input = (input("Введите число: "))
+numbers = list(map(int, input))
+print(numbers)
 
 
 
