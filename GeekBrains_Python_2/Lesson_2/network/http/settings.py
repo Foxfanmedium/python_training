@@ -1,3 +1,0 @@
-VERSION = 'HTTP/1.1'
-
-ENCODING = 'utf-8'
